@@ -1,0 +1,17 @@
+.contenedor {
+    margin: 0 10px;
+}
+
+
+.imagen-1 {
+    margin-top: 65px;
+    background-color: skyblue;
+    width: 100%;
+}
+
+.imagen-2 {
+    width: 100%;
+    margin-top: 92px;
+    background-color: skyblue;
+    height: 375px;
+}
