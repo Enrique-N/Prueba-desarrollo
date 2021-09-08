@@ -1,17 +1,36 @@
+.bg-header {
+    background: rgb(255, 255, 255, 0.5);
+}
+
+
 .contenedor {
     margin: 0 10px;
 }
 
-
 .imagen-1 {
     margin-top: 65px;
-    background-color: skyblue;
     width: 100%;
+    height: 447px;
 }
 
 .imagen-2 {
     width: 100%;
-    margin-top: 92px;
-    background-color: skyblue;
-    height: 375px;
+    margin: 55px 0;
+}
+
+.imagen-3 {
+    height: 500px;
+    background-image: url(./img/image\ 2.png);
+    color:white
+}
+
+.bg-button {
+    background-color: burlywood;
+    text-decoration: none;
+    color: black;
+    width: 10%;
+}
+
+.decoration {
+    list-style: none;
 }
