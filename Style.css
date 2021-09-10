@@ -2,11 +2,6 @@
     background: rgb(255, 255, 255, 0.5);
 }
 
-
-.contenedor {
-    margin: 0 10px;
-}
-
 .imagen-1 {
     margin-top: 65px;
     width: 100%;
@@ -15,7 +10,7 @@
 
 .imagen-2 {
     width: 100%;
-    margin: 55px 0;
+    margin: 30px 0;
 }
 
 .imagen-3 {
